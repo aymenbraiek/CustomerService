@@ -14,10 +14,6 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 
-
-/**
- * @author n.lamouchi
- */
 @RequiredArgsConstructor
 @RestController
 @RequestMapping(Web.API + "/carts")
